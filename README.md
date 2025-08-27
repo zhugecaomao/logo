@@ -1,3 +1,1 @@
-# Company Logo
-
-Just some company logo collection
+just some company logo collection
